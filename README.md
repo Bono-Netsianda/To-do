@@ -1,4 +1,6 @@
-Todo - Modern Task Manager
+Here's the live link: https://to-do-gamma-gold.vercel.app/
+
+**Todo - Modern Task Manager**
 
 A beautiful, responsive, and feature-rich todo application built with HTML, CSS, and JavaScript. Features a modern design with a bottom navigation menu and comprehensive task management capabilities.
 
